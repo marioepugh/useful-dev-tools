@@ -81,6 +81,7 @@ Web Tool | Description
 [Big Text](https://coolsymbol.com/big-text-generator.html) | Convert text to big text as easy as you think.
 [Frisby.js](https://www.frisbyjs.com/) | The Easiest REST API Testing Framework Out There.
 [JSON Editor Online](https://jsoneditoronline.org/) | JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in a code editor.
+[Make Use Of](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/ ) | Mac Terminal Command Cheat Sheet.
 
 ## Desktop Tools 🖥
 
